@@ -1,0 +1,5 @@
+cd path/to/calendar-weather-app
+
+git remote add origin https://github.com/Princess199/calendar-weather-app.git
+git branch -M main
+git push -u origin main
